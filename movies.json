@@ -1,0 +1,134 @@
+[
+    {
+      "id": 1,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Sci-Fi",
+      "theme_song": {
+        "title": "Time",
+        "artist": "Hans Zimmer",
+        "link": "https://example.com/time"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Titanic",
+      "year": 1997,
+      "genre": "Romance",
+      "theme_song": {
+        "title": "My Heart Will Go On",
+        "artist": "Celine Dion",
+        "link": "https://example.com/my-heart-will-go-on"
+      }
+    },
+    {
+      "id": 3,
+      "title": "The Lion King",
+      "year": 1994,
+      "genre": "Animation",
+      "theme_song": {
+        "title": "Circle of Life",
+        "artist": "Elton John",
+        "link": "https://example.com/circle-of-life"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Skyfall",
+      "year": 2012,
+      "genre": "Action",
+      "theme_song": {
+        "title": "Skyfall",
+        "artist": "Adele",
+        "link": "https://example.com/skyfall"
+      }
+    },
+    {
+      "id": 5,
+      "title": "The Godfather",
+      "year": 1972,
+      "genre": "Crime",
+      "theme_song": {
+        "title": "Speak Softly, Love",
+        "artist": "Nino Rota",
+        "link": "https://example.com/speak-softly-love"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Frozen",
+      "year": 2013,
+      "genre": "Animation",
+      "theme_song": {
+        "title": "Let It Go",
+        "artist": "Idina Menzel",
+        "link": "https://example.com/let-it-go"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Star Wars: A New Hope",
+      "year": 1977,
+      "genre": "Sci-Fi",
+      "theme_song": {
+        "title": "Main Title",
+        "artist": "John Williams",
+        "link": "https://example.com/main-title-star-wars"
+      }
+    },
+    {
+      "id": 8,
+      "title": "The Bodyguard",
+      "year": 1992,
+      "genre": "Drama",
+      "theme_song": {
+        "title": "I Will Always Love You",
+        "artist": "Whitney Houston",
+        "link": "https://example.com/i-will-always-love-you"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Rocky",
+      "year": 1976,
+      "genre": "Sports",
+      "theme_song": {
+        "title": "Gonna Fly Now",
+        "artist": "Bill Conti",
+        "link": "https://example.com/gonna-fly-now"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "genre": "Adventure",
+      "theme_song": {
+        "title": "Jurassic Park Theme",
+        "artist": "John Williams",
+        "link": "https://example.com/jurassic-park-theme"
+      }
+    },
+    {
+      "id": 11,
+      "title": "The Lord of the Rings: The Fellowship of the Ring",
+      "year": 2001,
+      "genre": "Fantasy",
+      "theme_song": {
+        "title": "May It Be",
+        "artist": "Enya",
+        "link": "https://example.com/may-it-be"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Sweet November",
+      "year": 2001,
+      "genre": "Romance",
+      "theme_song": {
+        "title": "Only Time",
+        "artist": "Enya",
+        "link": "https://example.com/only-time"
+      }
+    }
+  ]

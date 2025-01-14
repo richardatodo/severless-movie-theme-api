@@ -1,0 +1,5 @@
+fastapi==0.99.0
+boto3
+python-dotenv
+mangum
+openai
